@@ -1,7 +1,7 @@
 package Homeworks;
 
-public class homework1 {
+public class tnayin1 {
     public static void main(String[] args) {
-        System.out.println("hellow");
+        System.out.println("barev");
     }
 }
