@@ -3,10 +3,12 @@ package homeworks;
 //homework 1
 public class IfForExample {
     public static void main(String[] args) {
-        int a = 10;
-        int b = 40;
+        int a = 90;
+        int b = 70;
         if (a < b) {
-            System.out.println("max: 40");
+            System.out.println("max:" + b);
+        } else {
+            System.out.println("max:" + a);
         }
 
         //homework 2
